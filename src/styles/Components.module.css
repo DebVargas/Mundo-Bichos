@@ -1,0 +1,25 @@
+.footer{
+    background-color: #8aa1a6;
+    color: black;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Lucida Sans';
+    }
+
+
+    .navbar .nomedosite{
+        margin-left: 35%;
+        font-size: 40px;
+        color: white;
+        font-family:'Lucida Sans';
+    }
+    .navbar{
+    background-color: #8aa1a6;;
+    min-height: 90px;
+    display: flex;
+    align-items: center;
+    }
+    
+    

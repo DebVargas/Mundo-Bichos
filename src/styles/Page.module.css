@@ -1,0 +1,98 @@
+.home{
+  min-height: 60vh;
+  margin-left: 1%;
+  font-size: 20px;
+  }
+ .home .estilinho{
+  font-size: 22px;
+  width: 30%;
+  background-color: #ebd2d6;
+ }
+
+  .home h3{
+    margin-top: 4%;
+    margin: 3%;
+    font-family:'Segoe UI';
+    color: #41686b
+ }
+ .home p{
+  margin-top: 2%;
+  color: black;
+  margin: 3%;
+  font-family: 'Lucida Sans';
+}
+
+  .objeto h1{
+    color: #ebd2d6;
+  margin-top: 3%;
+  text-align: center;
+  font-family: 'Lucida Sans';
+}
+
+.objeto p{
+  color: #41686b;
+  margin: 1%;
+  text-align: center;
+  font-family: 'Lucida Sans';
+}
+
+.objeto button{
+  background-color: #ebd2d6;
+  margin-left: 48.5%;
+  text-align: center;
+  font-family: 'Lucida Sans';
+}
+
+ .botao{
+  background-color: #ebd2d6;
+  margin-left: 40%;
+  text-align: center;
+  font-family: 'Lucida Sans';
+}
+
+.profile{
+  text-align: center;
+  color: black;
+  font-family: 'Lucida Sans';
+}
+
+.profile h2{
+  margin-top: 3%;
+  color: #41686b;
+  font-size: 30px;
+  font-family: 'Lucida Sans';
+}
+
+.profile .desobjeto{
+  text-align: left;
+  margin: 1%;
+  margin-top: 3%;
+  font-size: 25px;
+  font-family: 'Lucida Sans';
+}
+
+.profile .nomecriador{
+  margin-top: 3%;
+  font-size: 25px;
+  font-family: 'Lucida Sans';
+  margin-left: 40%;
+  background-color: #ebd2d6;
+  width: 20%;
+}
+
+
+.profile button{
+  margin-top: 3%;
+  background-color: #ebd2d6;
+  font-family: 'Lucida Sans';
+
+}
+
+
+
+
+
+
+
+
+  
